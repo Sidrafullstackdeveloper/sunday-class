@@ -1,0 +1,30 @@
+section
+{
+    width: 90%;
+    height: 200px;
+    display: FLEX;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+   margin: 80px;
+   padding: 80px;
+
+
+}
+.COL
+{
+    width: 13%;
+    height: 100px;
+    border: 1px solid;
+    box-shadow: grey 1PX 1PX 3PX 4PX;
+    margin: 20px;
+
+
+
+
+
+
+
+
+
+}

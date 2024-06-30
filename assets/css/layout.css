@@ -1,0 +1,69 @@
+*
+{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+header
+{
+    width: 100%;
+    height: 80px;
+    background-color: blueviolet;
+    display: flex;
+
+}
+.logo
+{
+    width: 15%;
+    height: inherit;
+    background-color: brown;
+
+
+}
+nav
+{
+    width: 85%;
+    height: inherit;
+    background-color: chocolate;
+
+
+}
+/*banner*/
+main
+{
+    width: 100%;
+    height: 300px;
+    background-color: aquamarine;
+    
+}
+section
+{
+    width: 100%;
+    height: 300px;
+    background-color: chartreuse;
+
+}
+.row
+{
+    width: 90%;
+    height: 250px;
+    background-color: darkgoldenrod;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+.col
+{
+    width: 20%;
+    height: 150px;
+    background-color: darkmagenta;
+
+
+
+
+
+
+}

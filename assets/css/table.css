@@ -1,0 +1,25 @@
+table
+{ border-collapse:collapse ;
+    width: 500px;
+    height: 30px;
+    text-align: center;
+}
+tbody>tr:nth-child(even)
+{
+    background-color:green;
+    color: darkgreen;
+
+}
+tbody>tr:nth-child(odd)
+{
+    background-color: rgb(119, 172, 119);
+    color: rgb(3, 27, 3);
+
+}
+tbody>tr:hover
+{
+    background-color: brown;
+    color: white;
+    transition: all .5s linear;
+
+}
